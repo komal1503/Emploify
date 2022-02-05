@@ -1,5 +1,5 @@
 # Emplify
-When service made easier!!
+
 
 # Aimed for- Shellhacks2021
 <p align="center">
